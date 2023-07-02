@@ -1,0 +1,17 @@
+.main
+{
+      text-align: center;
+      border-radius: 20px;
+      padding: auto;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      box-shadow: 20px;
+      background: radial-gradient(circle at center, red 0%, aqua 20%, rgb(128, 0, 92) 100%);
+      margin: 400px;
+}
+body{
+      background-image:url(back.png );
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100%;
+      border-radius: 20px;
+}
